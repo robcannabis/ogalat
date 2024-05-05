@@ -37,17 +37,17 @@ client.on('ready', async () => {
     const change = ['https://cdn.discordapp.com/attachments/1065988274918797392/1236567220780531782/bsba.gif?ex=66387a77&is=663728f7&hm=1e4bd6a5fba0fc7e338ca51fdbd3fe6053b3b6db658c6cbe04b57401c5b7b969&']; //รูปใหญ่
      //const poop = ['https://cdn.discordapp.com/attachments/1114551993499918438/1122462459710681170/1095697715238797403.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460817977395/1095697740543049819.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1122462460125921341/1095697719189844048.gif','https://cdn.discordapp.com/attachments/1114551993499918438/1116029023957561425/1110570045454696509.gif']; // รูปเล็ก
     const change2 = [' ']; // ชื่อสลับ
-    //const yyyt = ['TIKTOK💐']; // ชื่อ button1
-    //const ddds = ['https://vt.tiktok.com/ZSFEjbRJL/']; // ลิ้ง button1
+    const yyyt = ['TIKTOK💐']; // ชื่อ button1
+    const ddds = ['https://vt.tiktok.com/ZSFEjbRJL/']; // ลิ้ง button1
 
-   //const iooi = ['OGALAT 💌']; // ชื่อ button 2
-   //const iiio = ['https://discord.gg/n2YV89WksM']; // ลิ้ง button 2
-   //const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
-   //const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
-   //const oooi = 
-//iiio[Math.floor(Math.random()*iiio.length)]; // button 1 ใส่ลิ้ง
-    //const ioii =
-//iooi[Math.floor(Math.random()*iooi.length)]; // button 1 ใส่ชื่อ
+   const iooi = ['OGALAT 💌']; // ชื่อ button 2
+   const iiio = ['https://discord.gg/n2YV89WksM']; // ลิ้ง button 2
+   const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
+   const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
+   const oooi = 
+iiio[Math.floor(Math.random()*iiio.length)]; // button 1 ใส่ลิ้ง
+    const ioii =
+iooi[Math.floor(Math.random()*iooi.length)]; // button 1 ใส่ชื่อ
     //const popp =
 //poop[Math.floor(Math.random()*poop.length)]; // รูปเล็ก
     const ssss = 
