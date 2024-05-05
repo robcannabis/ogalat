@@ -40,7 +40,7 @@ client.on('ready', async () => {
     const yyyt = ['TIKTOK💐']; // ชื่อ button1
     const ddds = ['https://vt.tiktok.com/ZSFEjbRJL/']; // ลิ้ง button1
 
-   const iooi = ['OGALAT 💌']; // ชื่อ button 2
+   const iooi = ['Shop Nitro']; // ชื่อ button 2
    const iiio = ['https://discord.gg/n2YV89WksM']; // ลิ้ง button 2
    const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
    const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
@@ -59,7 +59,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
       .setURL('https://www.youtube.com/watch?v=yFg7_bjl2-k')
       .setState(`🍃 : ${global.wind} Km/h | 🌡 : ${global.temp} C°`)
       .setName(`RobShop`)
-      .setDetails(`​`)
+      .setDetails(`𝐎𝐆𝐀𝐋𝐀𝐓 💌`)
       //.setAssetsSmallImage(`${popp}`) 
 .setAssetsLargeImage(`${ssss}`)
 .setAssetsLargeText(`（  ${getTime()} ） • （ ${moment().format('DD/MM/YYYY')} ）`)
