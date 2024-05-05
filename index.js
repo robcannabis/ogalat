@@ -64,9 +64,9 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
 .setAssetsLargeImage(`${ssss}`)
 .setAssetsLargeText(`（  ${getTime()} ） • （ ${moment().format('DD/MM/YYYY')} ）`)
 .setAssetsSmallText(`ping : ${Math.round(client.ws.ping)}`)
-//.addButton(`${ioii}`,`${oooi}`)  
+.addButton(`${ioii}`,`${oooi}`)  
 
-      //.addButton(`${tyyy}`,`${sddd}`)
+      .addButton(`${tyyy}`,`${sddd}`)
 //.setStartTimestamp("1672545600" || Date.now())
 //.setEndTimestamp("1704077999" || Date.now())
     client.user.setActivity(r);
